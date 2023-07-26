@@ -30,7 +30,12 @@
 - **Slick Carousel** - для создания каруселей и слайдеров изображений.
 - **Google Fonts**  - для подключения и использования различных шрифтов.
 
-# Внешний вид сайта: 
+# `Внешний вид сайта:` 
+![Снимок экрана 2023-07-26 133533](https://github.com/Mustafa10101/velo-project/assets/121601835/fde98cbc-4ee5-406e-8fec-2a76852270a1)
+![Снимок экрана 2023-07-26 133558](https://github.com/Mustafa10101/velo-project/assets/121601835/eba0e603-d091-4589-a82c-ce8d18e5c209)
+![Снимок экрана 2023-07-26 133614](https://github.com/Mustafa10101/velo-project/assets/121601835/fc66104d-2bdb-4b63-a9ec-c43f1133c96d)
+![Снимок экрана 2023-07-26 133634](https://github.com/Mustafa10101/velo-project/assets/121601835/63a9d306-30f9-48c3-ad4a-44d7455b6375)
+![Снимок экрана 2023-07-26 133650](https://github.com/Mustafa10101/velo-project/assets/121601835/22da7a38-ffa5-401c-8a63-f33a2434e9db)
 
   
 ## Содержание
